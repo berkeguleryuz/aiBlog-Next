@@ -14,7 +14,7 @@ const Nav = (props: Props) => {
       <nav className='flex justify-between items-center w-full bg-wh-900 text-wh-10 px-10 py-4'>
         <div className='hidden sm:block'><Logo /></div>
         <div className='flex justify-between items-center gap-10 '>
-          <Link href='/' className='hover:text-wh-100'>Home</Link>
+          <Link href='/' className='hover:text-wh-100 font-bold'>Home</Link>
         </div>
         <div>
         <TextGradientComponent/>
