@@ -40,7 +40,7 @@ const Sidebar = (props: Props) => {
             src={AboutProfile}
             style={{ width: "500px", height: "250px", objectFit: "cover" }}
           />
-        </Link>
+        </Link> 
       </div>
       <a href="mailto:berkeguleryuz@hotmail.com">
         <h4 className="py-3 px-5 text-wh-500 font-bold text-center">
